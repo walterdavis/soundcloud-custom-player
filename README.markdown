@@ -33,7 +33,7 @@ http://wiki.github.com/walterdavis/soundcloud-custom-player
 
 ###The project is published under an MIT license:
 
-> Copyright (c) 2010 SoundCloud Ltd. (Original jQuery version)
+> Copyright (c) 2010 SoundCloud Ltd. (Original jQuery version)  
 > Copyright (c) 2012 Walter Davis Studio (Prototype.js port)
 > 
 > Permission is hereby granted, free of charge, to any person
