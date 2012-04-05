@@ -28,8 +28,12 @@ Now reload your page, and instead of the link you should see a cool new widget.
 
 Note: when you're doing the test, please make sure you're running it on the local or remote web-server (http://localhost, 127.0.0.1/testpage, yoursite.com, etc.) Only so you can be sure that the Flash component will be initialized correctly and the track will actually play. If you're still experiencing problems, verify that the links to JS files are correct. Also make sure you're using an url of an existing track :)
 
+TODO:
+
+The Wiki still has the jQuery-specific instructions, need to re-write. 
+
 Per default the player works in 'zero-config' mode. It means, you don't need to change or write any JavaScript to get a working player on your site. More advanced techniques are described in the documentation:
-http://wiki.github.com/soundcloud/soundcloud-custom-player
+http://wiki.github.com/walterdavis/soundcloud-custom-player
 
 
 ###The project is published under an MIT license:
